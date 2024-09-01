@@ -1,0 +1,10 @@
+In game background should be plain.
+
+Wallpaper on homescreen.
+
+Animation on or the style of snake should be changed.
+
+Speed should increase with time not upon eating food.
+
+Timer should added on the top left side of game window.
+
